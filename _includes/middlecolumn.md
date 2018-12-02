@@ -1,7 +1,7 @@
 <!-- Middle Column -->
         <div class="one_half"> 
           <!-- ################################################################################################ -->
-          <h2>Latest News &amp; Events</h2>
+          <h1>Latest News &amp; Events</h1>
           <ul class="nospace listing">
             <li class="clear">
               <div class="imgl borderedbox"><img src="images/demo/120x120.gif" alt=""></div>

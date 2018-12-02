@@ -17,7 +17,7 @@ File: Layout CSS
 --------------------------------------------------------------------------------------------------------------- */
 .row0, .row0 a{}
 .row1, .row1 a{}
-.row2, .row2 a{}
+.row2, .row2 a{ font-size:18px;}
 .row3, .row3 a{}
 .row4, .row4 a{}
 .row5, .row5 a{}
@@ -36,7 +36,7 @@ File: Layout CSS
 #header{}
 
 #header #logo{}
-#header #logo h1{margin:0 0 8px 0; padding:0; font-size:36px; line-height:12px; font-variant:small-caps; font-style:normal;}
+#header #logo h1{margin:0 0 8px 0; padding:0; font-size:40px; line-height:12px; font-variant:small-caps; font-style:normal;}
 #header #logo p{margin:0; padding:0;}
 
 #header form{display:block; position:relative; width:100%;}
@@ -283,11 +283,13 @@ label span{color:#FF0000; background-color:inherit;}
 
 
 /* Rows */
-.row0, .row0 a{color:#F9F9F9; background-color:#06213F;}
-.row1{color:#979797; background-color:#06213F;}
+.row0, .row0 a{color:#ffffff; background-color:#06213F;}
+.row1{color:#ffffff; background-color:#06213F;}
 .row1 a{color:#F9F9F9; background-color:inherit;}
 .row2, .row2 a{color:#06213F; background-color:inherit;}
-.row3{color:#979797; background-color:inherit;}
+.row3{color:#000000; background-color:inherit;}
+.row3 a{color:#0073e6; background-color:inherit;}
+
 .row4{color:#979797; background-color:inherit;}
 .row5, .row5 a{color:#55ABDA; background-color:#06213F;}
 
