@@ -3,7 +3,7 @@
   <div id="slider">
     <div id="slide-wrapper" class="rounded clear"> 
       <!-- ################################################################################################ -->
-      <figure id="slide-1"><a class="view" href="#"><img src="{{ site.baseurl}}/librairie.jpg" alt=""></a>
+      <figure id="slide-1"><a class="view" href="#"><img src="{{ site.baseurl}}/image/librairie.jpg" alt=""></a>
         <figcaption>
           <h2>Nullamlacus dui ipsum</h2>
           <p>Attincidunt vel nam a maurisus lacinia consectetus magnisl sed ac morbi. Inmaurisus habitur pretium eu et ac vest penatibus id lacus parturpis.</p>
