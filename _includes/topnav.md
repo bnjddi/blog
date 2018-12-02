@@ -4,11 +4,11 @@
     <!-- ################################################################################################ -->
     <nav>
       <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">Contact Us</a></li>
-        <li><a href="#">A - Z Index</a></li>
-        <li><a href="#">Student Login</a></li>
-        <li><a href="#">Staff Login</a></li>
+        <li><a href="{{site.baseurl}}/">Accueil</a></li>
+        <li><a href="#">Contactez-nous</a></li>
+        <li><a href="#">Espace Enseignants</a></li>
+        <li><a href="#">Espace Apprenants</a></li>
+        <li><a href="#">Admin</a></li>
       </ul>
     </nav>
     <!-- ################################################################################################ --> 
