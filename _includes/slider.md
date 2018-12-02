@@ -3,37 +3,37 @@
   <div id="slider">
     <div id="slide-wrapper" class="rounded clear"> 
       <!-- ################################################################################################ -->
-      <figure id="slide-1"><a class="view" href="#"><img src="{{ site.baseurl}}/image/librairie.jpg" alt=""></a>
+      <figure id="slide-1"><a class="view" href="#"><img src="{{ site.baseurl}}/images/librairie.jpg" alt=""></a>
         <figcaption>
-          <h2>Nullamlacus dui ipsum</h2>
+          <h4>Nullamlacus dui ipsum</h4>
           <p>Attincidunt vel nam a maurisus lacinia consectetus magnisl sed ac morbi. Inmaurisus habitur pretium eu et ac vest penatibus id lacus parturpis.</p>
           <p class="right"><a href="#">Continue Reading &raquo;</a></p>
         </figcaption>
       </figure>
-      <figure id="slide-2"><a class="view" href="#"><img src="images/demo/slider/2.png" alt=""></a>
+      <figure id="slide-2"><a class="view" href="#"><img src="{{site.baseurl}}/images/ecolesmara1.jpg" alt=""></a>
         <figcaption>
-          <h2>Aliquatjusto quisque nam</h2>
+          <h4>Aliquatjusto quisque nam</h4>
           <p>Attincidunt vel nam a maurisus lacinia consectetus magnisl sed ac morbi. Inmaurisus habitur pretium eu et ac vest penatibus id lacus parturpis.</p>
           <p class="right"><a href="#">Continue Reading &raquo;</a></p>
         </figcaption>
       </figure>
-      <figure id="slide-3"><a class="view" href="#"><img src="images/demo/slider/3.png" alt=""></a>
+      <figure id="slide-3"><a class="view" href="#"><img src="{{site.baseurl}}/images/demo/slider/3.png" alt=""></a>
         <figcaption>
-          <h2>Aliquatjusto quisque nam</h2>
+          <h4>Aliquatjusto quisque nam</h4>
           <p>Attincidunt vel nam a maurisus lacinia consectetus magnisl sed ac morbi. Inmaurisus habitur pretium eu et ac vest penatibus id lacus parturpis.</p>
           <p class="right"><a href="#">Continue Reading &raquo;</a></p>
         </figcaption>
       </figure>
-      <figure id="slide-4"><a class="view" href="#"><img src="images/demo/slider/4.png" alt=""></a>
+      <figure id="slide-4"><a class="view" href="#"><img src="{{site.baseurl}}/images/demo/slider/4.png" alt=""></a>
         <figcaption>
-          <h2>Aliquatjusto quisque nam</h2>
+          <h4>Aliquatjusto quisque nam</h4>
           <p>Attincidunt vel nam a maurisus lacinia consectetus magnisl sed ac morbi. Inmaurisus habitur pretium eu et ac vest penatibus id lacus parturpis.</p>
           <p class="right"><a href="#">Continue Reading &raquo;</a></p>
         </figcaption>
       </figure>
-      <figure id="slide-5"><a class="view" href="#"><img src="images/demo/slider/5.png" alt=""></a>
+      <figure id="slide-5"><a class="view" href="#"><img src="{{site.baseurl}}/images/demo/slider/5.png" alt=""></a>
         <figcaption>
-          <h2>Dapiensociis temper donec</h2>
+          <h4>Dapiensociis temper donec</h4>
           <p>Attincidunt vel nam a maurisus lacinia consectetus magnisl sed ac morbi. Inmaurisus habitur pretium eu et ac vest penatibus id lacus parturpis.</p>
           <p class="right"><a href="#">Continue Reading &raquo;</a></p>
         </figcaption>

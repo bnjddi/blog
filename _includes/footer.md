@@ -4,19 +4,19 @@
     <footer id="footer" class="clear"> 
       <!-- ################################################################################################ -->
       <div class="one_third first">
-        <figure class="center"><img class="btmspace-15" src="images/demo/worldmap.png" alt="">
-          <figcaption><a href="#">Find Us With Google Maps &raquo;</a></figcaption>
+        <figure class="center"><img class="btmspace-15" src="{{site.baseurl}}/images/ecole_smara.png" alt="ecole Smara sur Google Maps">
+          <figcaption><a href="https://goo.gl/maps/qv8TvWhPfMv">Ecole Smara sur Google Maps &raquo;</a></figcaption>
         </figure>
       </div>
       <div class="one_third">
         <address>
-        Long Educational Facility Name<br>
-        Address Line 2<br>
-        Town/City<br>
-        Postcode/Zip<br>
+        Ecole Elémentaire Smara<br>
+        Quartier PAM<br>
+        Kasbah Tadla<br>
+        23350 Maroc<br>
         <br>
-        <i class="fa fa-phone pright-10"></i> xxxx xxxx xxxxxx<br>
-        <i class="fa fa-envelope-o pright-10"></i> <a href="#">contact@domain.com</a>
+       <!--  <i class="fa fa-phone pright-10"></i> xxxx xxxx xxxxxx<br> -->
+        <i class="fa fa-envelope-o pright-10"></i> <a href="#">{{site.email}}</a>
         </address>
       </div>
       <div class="one_third">
