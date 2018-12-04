@@ -1,11 +1,10 @@
 ---
 title: le calendrier scolaire 2018/2019
 author: essadiki
-layout: default
+layout: posts
 ---
 
-<html><h1>{{page.title}}</h1></html>
-![]({{site.baseurl}}/librairie.jpg)
+![]({{site.baseurl}}/images/librairie.jpg)
 <html>
 Ecrit par :		 {{page.author}}
 

@@ -7,13 +7,9 @@
       <p>Site Web de l'école Smara Kasbah-Tadla</p>
     </div>
     <div class="fl_right">
-      <form class="clear" method="post" action="#">
-        <fieldset>
-          <legend>Rechercher</legend>
-          <input type="text" value="" placeholder="">
-          <button class="fa fa-search" type="submit" title="Recherche"><em>Recherche</em></button>
-        </fieldset>
-      </form>
+      
+        
+       
     </div>
     <!-- ################################################################################################ --> 
   </header>
