@@ -1,6 +1,6 @@
 ---
 title: Welcome
-layout: default
+layout: posts
 date: '2018-12-02 12:55:39 +0100'
 categories: jekyll update
 ---
