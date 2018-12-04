@@ -36,6 +36,9 @@
         <!-- Middle Column -->
 		<div class="two_third first">
         {{content}}
+		<?
+ echo "saluuuuuuuuuuuuuuuuuuuuuuuuuuuut";
+?>
 		</div>
         <!-- / Middle Column --> 
         <!-- Right Column -->
@@ -49,9 +52,7 @@
      
       <!-- ################################################################################################ --> 
       <!-- ##########################################liensutile###################################################### -->
-      {% include liensutiles.md %} <?
- echo "saluuuuuuuuuuuuuuuuuuuuuuuuuuuut";
-?>
+      {% include liensutiles.md %} 
       <!-- ################################################################################################ --> 
       <!-- / main body -->
       <div class="clear"></div>
